@@ -1,1 +1,1 @@
-run: gradle :app:assembleDebug
+run: gradle :android:assembleDebug
