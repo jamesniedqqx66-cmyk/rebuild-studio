@@ -1,2 +1,0 @@
-- name: Build Debug APK
-  run: gradle assembleDebug --stacktrace --info --console=plain
